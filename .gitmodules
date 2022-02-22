@@ -4,3 +4,6 @@
 [submodule "WeatherApp"]
 	path = WeatherApp
 	url = https://github.com/martinj-jaime/WeatherApp
+[submodule "weather_reduxConnect"]
+	path = weather_reduxConnect
+	url = https://github.com/martinj-jaime/weather_reduxConnect
