@@ -1,3 +1,6 @@
 [submodule "CalcApp"]
 	path = CalcApp
 	url = https://github.com/martinj-jaime/CalcApp
+[submodule "WeatherApp"]
+	path = WeatherApp
+	url = https://github.com/martinj-jaime/WeatherApp
