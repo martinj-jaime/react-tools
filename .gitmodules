@@ -10,3 +10,6 @@
 [submodule "react_CustomerABM"]
 	path = react_CustomerABM
 	url = https://github.com/martinj-jaime/react_CustomerABM
+[submodule "recoil_simple-todosapp"]
+	path = recoil_simple-todosapp
+	url = https://github.com/martinj-jaime/recoil_simple-todosapp
