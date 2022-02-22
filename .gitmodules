@@ -7,3 +7,6 @@
 [submodule "weather_reduxConnect"]
 	path = weather_reduxConnect
 	url = https://github.com/martinj-jaime/weather_reduxConnect
+[submodule "react_CustomerABM"]
+	path = react_CustomerABM
+	url = https://github.com/martinj-jaime/react_CustomerABM
